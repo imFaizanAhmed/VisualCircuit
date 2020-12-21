@@ -136,7 +136,7 @@ Again go to openCV. This time select the screen and place it.
 Now connect the camera to screen. click and hold on the out going edge of camera and join it to the in comming edge of screen.
 ![alt_text]({{ "assets/gif/connection.gif" | absolute_url }})
 
-#### Your application has been setted up. It's time to execute your first application.
+#### Your application is up now. It's time to execute your first application.
 To do so, first saved your application by pressing ctrl+s. It will ask you to name your application. 
 
 ![alt_text]({{ "assets/images/saving.png" | absolute_url }})
@@ -148,8 +148,9 @@ After doing that click on the files from the top left corner and following menu 
 Go to build and press Python-ROS-Neotic
 ![alt_text]({{ "assets/images/running app.png" | absolute_url }})
 
-#### Here you go your application is setted up. Congratulations buddy.
+#### Here you go. Your application is up and running.
 
+## Adding new Blocks
 
 
 
