@@ -19,10 +19,10 @@ feature_row:
     btn_label: "Learn more"
 
   - image_path: /assets/images/cover/install.png
-    alt: "Install"
-    title: "Install"
+    alt: "User Manual"
+    title: "User Manual"
     excerpt: "Use of the software. Instructions for replicating project content."
-    url: "/install/"
+    url: "/usermanual/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
